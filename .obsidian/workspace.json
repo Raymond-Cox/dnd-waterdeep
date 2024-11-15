@@ -1,0 +1,270 @@
+{
+  "main": {
+    "id": "86e58edf34918b7c",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe2fab1725731dd2",
+        "type": "split",
+        "children": [
+          {
+            "id": "5d1147443991be3a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "90730110d05d6d98",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Places/Trollskull Manor.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Trollskull Manor"
+                },
+                "group": "f04ecf3de7f9b4d8"
+              }
+            ]
+          },
+          {
+            "id": "eaf79c0b49a7aa3a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a811a805e59017ae",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "Places/Trollskull Manor.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 1,
+                      "close": true
+                    }
+                  },
+                  "icon": "lucide-git-fork",
+                  "title": "Graph of Trollskull Manor"
+                },
+                "group": "f04ecf3de7f9b4d8"
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ee42e00f5956a20d",
+    "type": "split",
+    "children": [
+      {
+        "id": "292f17078eb0f8cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aee082fe6d2ac888",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "cb2b6a7bf4191c60",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6f12952fef666542",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "8d7c08676cf45348",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d1c5a632f7a616f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e64b3424d9b14299",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "ec685f4a0db6029a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Story/Summary/Session 6.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Session 6"
+            }
+          },
+          {
+            "id": "0253793b2f34e56a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f7f034d6d042d9c7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Story/Summary/Session 6.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Session 6"
+            }
+          },
+          {
+            "id": "b7883de3fd23dbbe",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "90730110d05d6d98",
+  "lastOpenFiles": [
+    "Places/The Tiger's Eye.md",
+    "Places/Skewered Dragon.md",
+    "Places/Old Zeblob's Shop.md",
+    "Places/Candle Lane Warehouse.md",
+    "Story/Summary/Session 7.md",
+    "Party/Galia.md",
+    "Assets/pc1.jpg",
+    "Assets/pc4.webp",
+    "Party/Flamehair Frostbeard.md",
+    "Party/Vellia.md",
+    "Party/Rizzler.md",
+    "Places/The Honored Legacy.md",
+    "Places/Trollskull Manor.md",
+    "People/Davil Starsong.md",
+    "Groups/Zantarian Gang.md",
+    "Story/Summary/Session 6.md",
+    "People/Yagra.md",
+    "Groups/Zanathar Gang.md",
+    "Story/Summary/Session 3.md",
+    "Story/Summary/Session 4.md",
+    "Story/Summary/Session 5.md",
+    "Story/Summary/Session 2.md",
+    "People/Zigz.md",
+    "People/Melannor Felbranch.md",
+    "Quests/(Druid Quest) Scarecrows.md",
+    "Places/Phaulkonmere.md",
+    "Places/Steam and Steel.md",
+    "Places/Yawn'en Portal.md",
+    "Assets/pc3.png",
+    "Assets/pc2.png",
+    "Story/Summary",
+    "Story",
+    "Quests",
+    "Assets",
+    "Party",
+    "Lore",
+    "Groups",
+    "People",
+    "Places",
+    "Untitled.canvas"
+  ]
+}

@@ -1,0 +1,1 @@
+Son of a influential and powerful father in Waterdeep.

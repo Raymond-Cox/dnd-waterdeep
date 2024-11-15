@@ -1,0 +1,1 @@
+Divine nature god of [[Phaulkonmere]]. Worships Melekelly (god) ?

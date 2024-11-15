@@ -1,0 +1,1 @@
+A goblin found in the [[Zanathar Gang]] hideout in the sewers.

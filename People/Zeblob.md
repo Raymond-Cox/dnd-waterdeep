@@ -1,0 +1,1 @@
+A deep gnome fence who owns [[Old Zeblob's Shop]]. Works for the [[Zantarian Gang]].

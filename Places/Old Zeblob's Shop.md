@@ -1,0 +1,1 @@
+A shop in Dock Ward that holds all manners of curiosities. Ran by [[Zeblob]], he might have even more curiosities available after hours.

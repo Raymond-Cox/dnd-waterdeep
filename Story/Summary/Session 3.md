@@ -1,0 +1,7 @@
+The party descends into the sewer, and follows the symbols on the walls to lead them. They come across a wriggler. After killing it, the ascend a ladder to a higher level part of the sewer. This portion of the sewer system contained a [[Zanathar Gang]] hideout.
+
+The party sneaks into the hideout, stealth killing a goblin. They then come to a room with a Draugr and a human who they recognize from the bar brawl where they met [[Yagra]]. During the fight the Draugr lets an ooze monster loose. The ooze monster corrodes and eats anything metal.
+
+In a comical chase scene, the fight leads down a hallway to a larger room. Inside the party discovers [[Floon Blagarn]] being tortured by a warlock. There is also a Mindflayer like enemy, who sets loose a walking brain monster then teleports away. During the battle with the warlock, [[Vellia]] is attacked by the brain monster. The brain enters [[Vellia]]'s ear canal and disappears inside.
+
+After battle, the party investigates [[Floon Blagarn]]'s wounds. They discover his tongue has been cut and seared, so he cannot speak.  They hear a noise in the next room, which prompts [[Vellia]] and [[Yagra]] to bash the door in. [[Vellia]] chases down a goblin named [[Zigz]], and captures him. After some time she manages to convince [[Zigz]] to join our party. [[Vellia]] and [[Zigz]] torture the Draugr together and bond.

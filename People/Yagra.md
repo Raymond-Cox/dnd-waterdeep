@@ -1,0 +1,1 @@
+Female Orc fighter found loitering at the [[Yawn'en Portal]]. Member of [[Zantarian Gang]].

@@ -1,0 +1,1 @@
+An old abandoned warehouse located in the Dock Ward. Believed to be owned/used by [[Zanathar Gang]]. The party finds [[Renahr Neverember]] held hostage at this location during [[The Bard's missing friend]]

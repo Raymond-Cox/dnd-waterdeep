@@ -1,0 +1,1 @@
+A tavern in the Dock Ward that has a rough reputation. The bartender is an orc.

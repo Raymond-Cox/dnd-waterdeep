@@ -1,0 +1,1 @@
+A forge ran by two elementals in the North Ward, [[Embric]] and (unknown).

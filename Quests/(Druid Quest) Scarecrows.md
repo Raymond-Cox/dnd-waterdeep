@@ -1,0 +1,1 @@
+Scarecrows have been terrorizing the Undercliffs countryside. Need to be eliminated due to disrupting the balance. [[Flamehair Frostbeard]] has been tasked with investigating the anomalies.

@@ -1,0 +1,1 @@
+The original owner of [[Trollskull Manor]], who is now deceased. He occupies the tavern in ethereal form, haunting it as a ghost.

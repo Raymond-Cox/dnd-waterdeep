@@ -1,0 +1,1 @@
+A tiger-like being masked by magical energy to appear as an elf. Self-proclaimed "tracker" of information.

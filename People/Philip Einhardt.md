@@ -1,0 +1,1 @@
+A guard who typically works the South Gate of Waterdeep.

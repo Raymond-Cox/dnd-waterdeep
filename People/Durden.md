@@ -1,0 +1,1 @@
+Bartender and owner of the [[Yawn'en Portal]]. Never sleeps, seems to have magical attributes. Mentions we could explore the pit for 200g, possibly find magical artifacts. He alludes to the fact no one who has ever went down ever comes back alive.

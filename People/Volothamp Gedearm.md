@@ -1,0 +1,1 @@
+A bard the party first meets at the [[Yawn'en Portal]].
