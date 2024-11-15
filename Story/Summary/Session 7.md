@@ -6,4 +6,4 @@ We roll the keg back to  [[The Honored Legacy]]. We run into [[Zigz]] at the bar
 
 Cats surround the tavern. [[Flamehair Frostbeard]] talks to them and discovers that the fire burnt down a lot of the forest. It also destroyed the [[Emerald Enclave]] and killed [[Melannor Felbranch]]. This news depresses [[Flamehair Frostbeard]], who decides to go commune in nature to atone for his sins.
 
-[[Flamehair Frostbeard]] and [[Rizzler]] go out into the forest together. They gather acorns and plant them in the burnt lands in attempt to begin the re-forestation. They camp out in the forest that night. The next morning they wake and feed the homeless transients goodberries and create water for them.
+[[Flamehair Frostbeard]] and [[Rizzler]] go out into the forest together. They gather acorns and plant them in the burnt lands in attempt to begin the re-forestation. They camp out in the forest that night. The next morning they wake and feed the homeless transients good-berries and create water for them.

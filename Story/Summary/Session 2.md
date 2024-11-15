@@ -4,9 +4,9 @@ While leaving, the party is flanked by guards at [[Candle Lane Warehouse]]. They
 
 [[Vellia]] is then flanked by Kankous. She flees down the streets until a guard patrols shows up to deal with the Kankous. Then [[Vellia]] hides in the garbage for a while before making her way back to the tavern.
   
-After [[Vellia]] returns to the [[Yawn'en Portal]], [[Flamehair Frostbeard]] patches her up. After recovery they set out towards the town gates towards the north east in search of shops and farms.  The party stops by [[Steam and Steel]] and purchase a new Greatsword for [[Vellia]]. They then enlist the services of [[Vincent Trench]] to find information or whereabouts regarding the kidnapping of [[Floon Blagarn]].
+After [[Vellia]] returns to the [[Yawn'en Portal]], [[Flamehair Frostbeard]] patches her up. After recovery they set out towards the town gates towards the north east in search of shops and farms.  The party stops by [[Steam and Steel]] and purchase a new Great sword for [[Vellia]]. They then enlist the services of [[Vincent Trench]] to find information or whereabouts regarding the kidnapping of [[Floon Blagarn]].
 
-The party leaves the city to venture out into the farm lands. [[Vellia]] shows a provacative painting of Tiefling to a Tiefling child, and then is promptly chased away from the small village by parents.
+The party leaves the city to venture out into the farm lands. [[Vellia]] shows a provocative painting of Tiefling to a Tiefling child, and then is promptly chased away from the small village by parents.
 After venturing south, they come across a vineyard. [[Flamehair Frostbeard]] swiftly steals a fine bottle of wine from the owner, who is old and mostly blind. On the way back into town they meet [[Philip Einhardt]], who requests [[Flamehair Frostbeard]] tell him what he learns from his spiritual journey.
 
 After the party returns to the [[Yawn'en Portal]], they are met by [[Vincent Trench]]. Vincent advises the party that [[Floon Blagarn]] was seen taken into the sewers. The party should search for a specific symbol to navigate through the sewers.
