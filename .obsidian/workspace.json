@@ -182,11 +182,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Story/Summary/Session 6.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Session 6"
+              "title": "Outline"
             }
           },
           {
@@ -214,11 +212,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "90730110d05d6d98",
+  "active": "b7883de3fd23dbbe",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-11-15 07.14.24.excalidraw.md",
+    "README.md",
+    "Excalidraw",
     "Story/Summary/Session 7.md",
     "Story/Summary/Session 6.md",
     "Story/Summary/Session 5.md",
@@ -243,8 +245,6 @@
     "People/Yagra.md",
     "People/Vincent Trench.md",
     "People/Renahr Neverember.md",
-    "People/Rashawl.md",
-    "People/Philip Einhardt.md",
     "Assets/pc1.jpg",
     "Assets/pc4.webp",
     "Assets/pc3.png",
