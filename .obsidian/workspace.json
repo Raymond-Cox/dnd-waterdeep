@@ -182,9 +182,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "README.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of README"
             }
           },
           {
@@ -216,7 +218,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b7883de3fd23dbbe",
+  "active": "90730110d05d6d98",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2024-11-15 07.14.24.excalidraw.md",
     "README.md",
