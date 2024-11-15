@@ -1,2 +1,2 @@
 # dnd-waterdeep
-Story notes for the Waterdeep campaign
+Story notes for the Waterdeep campaign, configured for use in Obsidian.
