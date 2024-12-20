@@ -13,58 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Story/Summary/Session 10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
-            },
-            "group": "f04ecf3de7f9b4d8"
-          }
-        ]
-      },
-      {
-        "id": "3efd84aed5e4630b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a811a805e59017ae",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "README.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of README"
-            },
-            "group": "f04ecf3de7f9b4d8"
+              "title": "Session 10"
+            }
           }
         ]
       }
@@ -220,12 +175,14 @@
   },
   "active": "90730110d05d6d98",
   "lastOpenFiles": [
+    "Story/Summary/Session 8.md",
+    "Story/Summary/Session 10.md",
+    "Story/Summary/Session 7.md",
+    "Excalidraw/drawing.png",
     "Excalidraw/Drawing 2024-11-15 07.14.24.excalidraw.md",
     "Excalidraw/drawing_svg.svg",
     "README.md",
-    "Excalidraw/drawing.png",
     "Excalidraw",
-    "Story/Summary/Session 7.md",
     "Story/Summary/Session 6.md",
     "Story/Summary/Session 5.md",
     "Story/Summary/Session 4.md",
@@ -247,7 +204,6 @@
     "People/Volothamp Gedearm.md",
     "People/Zeblob.md",
     "People/Yagra.md",
-    "People/Vincent Trench.md",
     "Assets/pc1.jpg",
     "Assets/pc4.webp",
     "Assets/pc3.png",

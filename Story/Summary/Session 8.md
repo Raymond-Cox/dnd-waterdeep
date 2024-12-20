@@ -1,0 +1,26 @@
+ - Galia discovers the dead body upstairs then gets the guards to show them.
+ - The guards question everyone in the tavern.
+ - Flamehair asks lif where Zigz is and they find him in the basement frightened.
+  - Galia blesses a wooden soon for Zigz telling him it will protect him.
+  - The group heads upstairs to check the room with Yagra's dead body.
+ - Cats begin to gether around on the roof trying to get to Rizz for killing the forest and Melannor Felbranch.
+  - Yagras body was missing so Flamehair turns into a mastiff to follow the Yagras scent.
+  - Rizz gets surrounded by cats and has to use a blade storm to stop them from outnumbering and piling on her.
+  - Rizz having opened wounds is lifted up and pulled into the ritual room, blood feeding into the carved symbols.
+  - Galia destroys some of the symbols before Rizz is drained of all her blood and the ritual is completed wholly.
+  - Galia and Flamehair have dreams about a stone with faces all over it.
+  - Galia goes back to the morgue to find one of the bodies are missing.
+ - Rizz grabs the guards to try and explain the situation, thankfully she does a good job of bringing the guards closer to the parties side.
+  - Flamehair prays in the forest, noticing the tree's begin to sprout. The owl that robbed Rizz gives him back the stolen coin from the night before seeing him repair the forest.
+  - Galia sees Vellia with the child she killed in the graveyard. She runs away. Galia runs away and not soon after hears an old mans screams of anguish.
+  - Galia makes it back to the inn spotting Zigz following her along the way, he offers her some cat leg, to which she accepts and immediately throws up on him.
+  - Galia gets Zigz to take a bath telling him Vellia wont be able to get him under the guise of this being more blessings that will protect him from getting hurt. Immediately he runs down the stairs and slips barreling into a wall knocked out.
+  - Lif in a full covered suit and mask flags down Flamehair showing him this new ensemble and asking if he could serve the customers, Flamehair reluctantly agrees with a fuck it mentallity given the events constantly going on around him.
+  - Flamehair and Galia have a dream seeing each other and their gods.
+  - Flamehair and Rizz go to the carpenters guild to get a new door, they bring a lady from the guild to measure the frame for a "regular sized door". Rizz explains why the places is so messed up and adds some lies in there about cats and Phillip.
+  - Rizz makes plans with the lady from the carpenters guild to go into the woods with the cat lady alone some time, just her and the cats.
+  - Galia gets ownership over the city of the dead now that her master is dead.
+  - Rizz and Flamehair leave town and Zigz follws them out undetected.
+  - Spotting Zigz outside at the south gate Rizz convinces Phillip to "watch" Zigz.
+  - Flamehair waters the trees again.
+  - Flamehair speaks to the owl in the little patch of tree's and asks him to keep an eye out. The owl tells him he has seen Vellia in the woods stabbing children. Flamehair realizes the tree's unatural growth has something to do with Vellia watering the woods with childrens blood.
